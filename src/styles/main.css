@@ -19,7 +19,7 @@ body {
 }
 
 h2 {
-    font-size: 8vmin;
+    font-size: 7.5vmin;
     color: white;
     background-color: #212529;
     border-radius: 16px;
@@ -30,7 +30,7 @@ h2 {
 .reset {
     padding: 0 16px;
     border: outset;
-    font-size: 8vmin;
+    font-size: 7.5vmin;
     cursor: pointer;
     color: white;
     background-color: #212529;
